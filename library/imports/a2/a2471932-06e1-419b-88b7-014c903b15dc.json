@@ -1,0 +1,106 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "gameData",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "官员分数配置": "",
+    "levelData": [
+      {
+        "name": "农民",
+        "score": 6000,
+        "giftStep": 10,
+        "step": 5
+      },
+      {
+        "name": "秀才",
+        "score": 12000,
+        "giftStep": 10,
+        "step": 8
+      },
+      {
+        "name": "举人",
+        "score": 20000,
+        "giftStep": 10,
+        "step": 10
+      },
+      {
+        "name": "进士",
+        "score": 30000,
+        "giftStep": 10,
+        "step": 12
+      },
+      {
+        "name": "县令",
+        "score": 50000,
+        "giftStep": 10,
+        "step": 15
+      },
+      {
+        "name": "知府",
+        "score": 75000,
+        "giftStep": 10,
+        "step": 19
+      },
+      {
+        "name": "御史",
+        "score": 105000,
+        "giftStep": 10,
+        "step": 25
+      },
+      {
+        "name": "巡抚",
+        "score": 145000,
+        "giftStep": 10,
+        "step": 30
+      },
+      {
+        "name": "镇守",
+        "score": 190000,
+        "giftStep": 10,
+        "step": 40
+      },
+      {
+        "name": "提督",
+        "score": 250000,
+        "giftStep": 10,
+        "step": 50
+      },
+      {
+        "name": "大将军",
+        "score": 330000,
+        "giftStep": 10,
+        "step": 50
+      },
+      {
+        "name": "太师",
+        "score": 400000,
+        "giftStep": 10,
+        "step": 50
+      },
+      {
+        "name": "宰相",
+        "score": 500000,
+        "giftStep": 10,
+        "step": 50
+      },
+      {
+        "name": "王爷",
+        "score": 1000000,
+        "giftStep": 10,
+        "step": 50
+      },
+      {
+        "name": "皇帝",
+        "score": 2000000,
+        "giftStep": 10,
+        "step": 50
+      }
+    ],
+    "buildingData": [
+      {
+        "name": "通天塔"
+      }
+    ]
+  }
+}

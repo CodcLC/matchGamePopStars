@@ -1,0 +1,2217 @@
+{
+  "projectPath": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master",
+  "actualPlatform": "wechatgame",
+  "mtimes": {
+    "f59b9b9e-e578-4ae9-aea3-484dc4416baa": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091118
+    },
+    "03454f35-c355-4a8b-9161-014495b5597b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091238
+    },
+    "a14001b1-4838-43a6-b82c-f96116919a0b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091238
+    },
+    "0681e35d-19c2-43f9-9536-7606795e4de7": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091080
+    },
+    "1466360e-b55f-4445-a0de-4070362ca6d4": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091080
+    },
+    "0706478d-6e33-442e-9056-108d59ca1378": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091188
+    },
+    "bc139303-cf73-4029-98d5-c7b0ca789875": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091188
+    },
+    "07cb5ff6-4cfc-490d-bca2-160ce6f958d9": {
+      "assetMtime": 1692675959588,
+      "metaMtime": 1692675960015
+    },
+    "6737f5f0-dcbb-4648-974b-f8158527de6c": {
+      "assetMtime": 1692675959588,
+      "metaMtime": 1692675960015
+    },
+    "09b7267e-4d16-4679-ad96-03c02d49ff3d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091266
+    },
+    "935b6431-7d9c-4a96-b825-6054ccbca3b0": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091266
+    },
+    "09f1f917-2fee-47e9-bdf6-069dc771ec10": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091316
+    },
+    "fddf121a-f575-4761-831e-490e61fe6f1d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091316
+    },
+    "0cb17bd3-4ddf-4731-bda8-c2feb3e4ac4d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091210
+    },
+    "f5d526f5-85c6-4163-a580-d71e1f846958": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091210
+    },
+    "0cf70568-8bf3-4d76-9eaa-4494d8a31bfc": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091030
+    },
+    "98e48571-6ade-4578-a255-5cadf0f66831": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091030
+    },
+    "12fd0ab8-33f6-44e3-9337-c035b9aa7525": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091229
+    },
+    "db9c060b-7563-4a45-be32-d9bfa048772c": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091229
+    },
+    "1c6d6256-e22a-47f3-9753-ea8a59ce2583": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091059
+    },
+    "a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091059
+    },
+    "1dd9358f-0489-494e-9cf5-84371bdd86af": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091365
+    },
+    "ed651ec6-d155-4ebe-a008-cf7cba0f62e8": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091365
+    },
+    "28e187c0-7af4-4ca2-baaf-a0443edd890d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091200
+    },
+    "4982a02b-1a9d-410a-be2e-b2102ba58e5d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091200
+    },
+    "33d0cfcf-c5a8-430f-8116-858c725da12c": {
+      "assetMtime": 1692683679690,
+      "metaMtime": 1692683683232
+    },
+    "f5efab48-447a-4331-b259-6cce2f407e3d": {
+      "assetMtime": 1692683679690,
+      "metaMtime": 1692683683232
+    },
+    "38488265-36f4-4d81-a69a-7b6ecf2dfb04": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091258
+    },
+    "e86ee5c7-0dd6-474a-b39a-0f943dda190e": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091258
+    },
+    "393ac1a8-7fc3-4127-b4fd-d138ec7d984b": {
+      "assetMtime": 1692683859006,
+      "metaMtime": 1692684119641
+    },
+    "0064b193-9933-4717-a7d1-09632c7142d0": {
+      "assetMtime": 1692683859006,
+      "metaMtime": 1692684119641
+    },
+    "3e5b7d3e-9995-4088-9237-73ea3e0cb941": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091305
+    },
+    "9f606596-0024-466f-b37a-97622e05f3dc": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091305
+    },
+    "40255fff-6fe6-4ab8-a1ca-abc211657430": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091060
+    },
+    "a7f345e9-ac13-47fa-b92e-bf787c61a1a3": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091060
+    },
+    "45f214e9-3fa0-470e-9521-a13edfd2b7c0": {
+      "assetMtime": 1692684335440,
+      "metaMtime": 1692684336829
+    },
+    "13906c67-d31e-4307-a565-ad51349d6c62": {
+      "assetMtime": 1692684335440,
+      "metaMtime": 1692684336829
+    },
+    "46a8fa4a-2c94-47d4-83f3-8d11cf49bd4a": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091412
+    },
+    "89260284-38d9-401e-b172-b3432a6086df": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091412
+    },
+    "4fbf8df3-b863-4c49-ada2-c190e3cf12c2": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091069
+    },
+    "09372406-8732-4687-a5f1-38a966c9eca0": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091069
+    },
+    "511ca3c6-6ead-4877-8d6c-5e83b3900e72": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091353
+    },
+    "f63c4e49-a94c-4cd8-aa65-702d7b8153e0": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091353
+    },
+    "52d79ee1-2087-4b81-9200-020189158cb7": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091379
+    },
+    "5b38e742-9e66-4da6-af63-c57b366af822": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091379
+    },
+    "52fd3def-a5ed-4c2c-8027-8e70acfb3140": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091219
+    },
+    "7ae1439c-f583-4d81-9f77-1f3246ff9f7b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091219
+    },
+    "53d4b33b-1f44-4d1f-8cbc-cf4d006388eb": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091418
+    },
+    "a7a1efc0-b342-49ff-939a-330fcd29ca5b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091418
+    },
+    "548be208-fc6b-4c42-b67e-53cd4dd03ea6": {
+      "assetMtime": 1689832905069,
+      "metaMtime": 1692689029036
+    },
+    "777ac293-d223-4295-9e7e-4ad1c59292cd": {
+      "assetMtime": 1689832905069,
+      "metaMtime": 1692689029036
+    },
+    "56333ac3-59d7-4a9b-8ccb-d56d9d4fda7e": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091239
+    },
+    "840f939f-346c-44b4-b617-b89aefbc5872": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091239
+    },
+    "5ee173e5-cf3d-4282-b2a5-668617ecb8d9": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091040
+    },
+    "63e6f57a-de76-4073-a85b-508bb2028b8c": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091040
+    },
+    "657d750c-cd1c-4d4c-9a94-a1d2df11a6cf": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091099
+    },
+    "03ffd00a-834d-4398-be9d-67780a0a9188": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091099
+    },
+    "6ff4a620-f727-4a6c-84a2-dfe7b324bdf6": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091338
+    },
+    "2392c450-bb60-43f3-857a-623bc5309b78": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091338
+    },
+    "70195b04-4a94-4453-b16f-8b5beeb54def": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091149
+    },
+    "f736cce7-ed67-4f19-9679-a74c5261d6a5": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091149
+    },
+    "72fd7f95-62f3-4fff-9bfb-df344003d059": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091306
+    },
+    "01c1aa35-31d2-4f99-abfd-026d6aca0297": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091306
+    },
+    "7561eb3e-7728-4a86-85ad-077206b097d1": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091015
+    },
+    "46bf6ed6-b53f-4c53-8e34-f4287ed14b0c": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091015
+    },
+    "79f59b38-59da-450b-9bfd-2cfae65f529c": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091315
+    },
+    "d3568d6a-8d11-4e7a-9720-aececa08a1c1": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091315
+    },
+    "7a44b744-30a1-4035-a0df-7ff73ac0e587": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091108
+    },
+    "8ce9770c-4871-4ece-93a7-0280b1571156": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091108
+    },
+    "888fe7aa-212c-4a2b-8a5c-37db222f222e": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091327
+    },
+    "86420cfb-9627-4896-9982-08f5e6974091": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091327
+    },
+    "8a8ec7d0-d6d3-449e-adb9-ac58425ff750": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091401
+    },
+    "452cf243-f340-4f02-aa06-c9c58db242d6": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091401
+    },
+    "92fdef0c-e573-4d6e-a41a-c473b43c510f": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091228
+    },
+    "753d253b-f782-462e-8d05-1429fc48bba7": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091228
+    },
+    "953a7bdf-3b76-49d5-9831-c70e95163dd4": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091140
+    },
+    "d81ef909-1630-473f-8cb8-5b63db78579a": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091140
+    },
+    "9d640512-a674-4650-aca4-a59484099417": {
+      "assetMtime": 1690216316489,
+      "metaMtime": 1692689029059
+    },
+    "dd653b45-dc6b-4fae-8909-48af39edd3cb": {
+      "assetMtime": 1690216316489,
+      "metaMtime": 1692689029059
+    },
+    "9f87bfd7-dff9-46d8-9bcb-2fd4dc2b10f5": {
+      "assetMtime": 1692684102958,
+      "metaMtime": 1692684119641
+    },
+    "28972c30-b65b-4e12-bd48-4f7bda9be71a": {
+      "assetMtime": 1692684102958,
+      "metaMtime": 1692684119641
+    },
+    "a22e11b3-dbe4-416b-a123-5b2086d947e3": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091117
+    },
+    "ee1036a2-0126-409b-81a8-83872952a79e": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091117
+    },
+    "a5491008-d2e1-4632-ab3a-66a3a4572d2c": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091257
+    },
+    "75d85408-a110-4654-8bfe-79338f2217af": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091257
+    },
+    "a7a08b18-ddbe-440f-862c-70626961c6c7": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091411
+    },
+    "e711a37d-4f5f-4d80-8d21-cf64964637e3": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091411
+    },
+    "b12948e6-6025-4efe-865f-df9034a1e459": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091365
+    },
+    "4d54690f-4d7c-4daf-ba34-ee708241115f": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091365
+    },
+    "b221d77f-7545-47fe-bad0-1e540b5f82b6": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091351
+    },
+    "cfd70cd1-110e-4a91-88de-50f5acade1d6": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091351
+    },
+    "bd8aa757-893f-45fe-b212-d004c99aad1b": {
+      "assetMtime": 1692681448188,
+      "metaMtime": 1692681477119
+    },
+    "b9099020-01ee-4121-bb12-31b51d49f1cc": {
+      "assetMtime": 1692681448188,
+      "metaMtime": 1692681477119
+    },
+    "be879a55-c98f-4f64-b69b-7ab1cc9c8536": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091031
+    },
+    "dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091031
+    },
+    "c369c7ad-cdb0-4cb5-98f2-1c42419251af": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091039
+    },
+    "bf4a5331-4564-40ed-8787-555436e24823": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091039
+    },
+    "c67caf16-381f-459d-a30b-81bed846e851": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091088
+    },
+    "dac96767-6f0c-4e57-9a8e-26cf2bb98936": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091088
+    },
+    "c6f13935-51e6-471e-831f-3e9689a493f7": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091134
+    },
+    "6a063df3-972d-46c2-9f16-1ebe56931770": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091134
+    },
+    "c76df38f-ac58-4abf-9c01-413b42e7751a": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091339
+    },
+    "02249a9d-7597-4628-a2be-d8758417b922": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091339
+    },
+    "cb492436-20b4-4861-8deb-07e075838102": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091392
+    },
+    "a1cce985-552c-4113-8b50-8201966725bf": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091392
+    },
+    "cf9c9465-34b6-4be3-a935-368066e9491e": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091098
+    },
+    "ad34effe-5b9e-470f-99e5-8c526b4644a4": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091098
+    },
+    "d2980aa4-7562-4d24-8551-5d4085036d0b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091089
+    },
+    "eeb60250-fb46-4388-a127-1af3055c4746": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091089
+    },
+    "d4c7cd86-9449-4550-b7a1-1acc3bb03188": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091218
+    },
+    "bc9487b0-26d5-4aab-9f92-f9361f475933": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091218
+    },
+    "d69e60c9-8596-434a-a465-926cb4c7734a": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091149
+    },
+    "ea6e952d-5cc2-4264-a44a-56bc0cf010a9": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091149
+    },
+    "db948d8a-dcd0-4188-a8ad-b49f90806848": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091049
+    },
+    "56d36e2a-bba8-4c38-9163-f7508a8e6bad": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091049
+    },
+    "e78b5dde-820f-472c-b035-00f7e0f31012": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091265
+    },
+    "63b811a2-d3db-4a47-a346-a0981fba31c6": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091265
+    },
+    "ec80c9fa-e346-4ba0-a300-95abe71c0528": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091248
+    },
+    "056f3033-b5fa-4a22-b57b-54fee92969c4": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091248
+    },
+    "ee5bf543-5b21-4e5c-bc8b-58f448cce4d1": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091248
+    },
+    "27da2501-2dc7-4917-a92c-8b28a3331283": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091248
+    },
+    "efdea896-3812-4d30-a73f-578d1d1a035e": {
+      "assetMtime": 1692676478704,
+      "metaMtime": 1692676519487
+    },
+    "9c85ad72-25f4-4edd-b824-819b1cc33dab": {
+      "assetMtime": 1692676478704,
+      "metaMtime": 1692676519487
+    },
+    "f42026ae-4016-42e1-a9bc-d8b9f705edb1": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091326
+    },
+    "e9c5fc4a-8bd9-4cec-9d47-956eace4d347": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091326
+    },
+    "f464d4f7-09da-4455-9270-146d9a39359b": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091079
+    },
+    "120f7c6f-cdf5-46c3-bad3-f65b8c7f6221": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091079
+    },
+    "f519d00d-2c4a-4ec6-ad11-abe7a501409d": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091107
+    },
+    "406a2669-4bc5-4914-9f50-20883a5c79e9": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091107
+    },
+    "f751ff59-8e3c-404f-acb8-510e0b415b76": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091297
+    },
+    "ead00d74-812b-47eb-a068-de62e75813ec": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091297
+    },
+    "fa4c1170-9b3a-49de-9f3c-a2accdbb6fbe": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091127
+    },
+    "719f200f-ffd6-4dfe-8da3-6cfe2bbfd968": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091127
+    },
+    "fc71736c-1811-4807-8a4e-8667e4453c49": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091380
+    },
+    "e12efa35-1df5-47a8-90bc-310fd68f8c92": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091380
+    },
+    "fdffba35-959b-4e03-8e3e-b9b973282106": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091199
+    },
+    "577e6412-1119-4436-a1e3-248aa6b77403": {
+      "assetMtime": 1558539774000,
+      "metaMtime": 1692674091199
+    },
+    "fe378fc9-ecd4-468c-8478-7f8c602aa514": {
+      "assetMtime": 1692681402750,
+      "metaMtime": 1692681515389
+    },
+    "8e3af6af-70f9-48d3-b113-f4b539e98670": {
+      "assetMtime": 1692681402750,
+      "metaMtime": 1692681515389
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-2",
+    "width": 1023,
+    "height": 594,
+    "ver": "1.2.1",
+    "uuid": "f59b9b9e-e578-4ae9-aea3-484dc4416baa",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "组 27",
+            "uuid": "fc71736c-1811-4807-8a4e-8667e4453c49",
+            "textureUuid": "e12efa35-1df5-47a8-90bc-310fd68f8c92",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_66.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 409,
+              "height": 357,
+              "rotatedWidth": 409,
+              "rotatedHeight": 357
+            },
+            "rawWidth": 427,
+            "rawHeight": 365,
+            "width": 415,
+            "height": 363,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/e1/e12efa35-1df5-47a8-90bc-310fd68f8c92.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 415,
+            "rotatedHeight": 363
+          },
+          {
+            "name": "alty",
+            "uuid": "a22e11b3-dbe4-416b-a123-5b2086d947e3",
+            "textureUuid": "ee1036a2-0126-409b-81a8-83872952a79e",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_40.png",
+            "trim": {
+              "x": 418,
+              "y": 3,
+              "width": 755,
+              "height": 100,
+              "rotatedWidth": 100,
+              "rotatedHeight": 755
+            },
+            "rawWidth": 760,
+            "rawHeight": 108,
+            "width": 761,
+            "height": 106,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ee/ee1036a2-0126-409b-81a8-83872952a79e.png",
+            "x": 415,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 106,
+            "rotatedHeight": 761
+          },
+          {
+            "name": "组 3",
+            "uuid": "bd8aa757-893f-45fe-b212-d004c99aad1b",
+            "textureUuid": "b9099020-01ee-4121-bb12-31b51d49f1cc",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_45.png",
+            "trim": {
+              "x": 3,
+              "y": 366,
+              "width": 430,
+              "height": 298,
+              "rotatedWidth": 298,
+              "rotatedHeight": 430
+            },
+            "rawWidth": 477,
+            "rawHeight": 345,
+            "width": 436,
+            "height": 304,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/b9/b9099020-01ee-4121-bb12-31b51d49f1cc.png",
+            "x": 0,
+            "y": 363,
+            "rotated": true,
+            "rotatedWidth": 304,
+            "rotatedHeight": 436
+          },
+          {
+            "name": "组 24",
+            "uuid": "b12948e6-6025-4efe-865f-df9034a1e459",
+            "textureUuid": "4d54690f-4d7c-4daf-ba34-ee708241115f",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_43.png",
+            "trim": {
+              "x": 307,
+              "y": 764,
+              "width": 461,
+              "height": 128,
+              "rotatedWidth": 461,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 461,
+            "rawHeight": 128,
+            "width": 467,
+            "height": 134,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/4d/4d54690f-4d7c-4daf-ba34-ee708241115f.png",
+            "x": 304,
+            "y": 761,
+            "rotatedWidth": 467,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "tipbox (2)",
+            "uuid": "46a8fa4a-2c94-47d4-83f3-8d11cf49bd4a",
+            "textureUuid": "89260284-38d9-401e-b172-b3432a6086df",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_18.png",
+            "trim": {
+              "x": 3,
+              "y": 802,
+              "width": 264,
+              "height": 190,
+              "rotatedWidth": 264,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 303,
+            "rawHeight": 234,
+            "width": 270,
+            "height": 196,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/89/89260284-38d9-401e-b172-b3432a6086df.png",
+            "x": 0,
+            "y": 799,
+            "rotatedWidth": 270,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "开始游戏",
+            "uuid": "f464d4f7-09da-4455-9270-146d9a39359b",
+            "textureUuid": "120f7c6f-cdf5-46c3-bad3-f65b8c7f6221",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_62.png",
+            "trim": {
+              "x": 307,
+              "y": 366,
+              "width": 316,
+              "height": 105,
+              "rotatedWidth": 105,
+              "rotatedHeight": 316
+            },
+            "rawWidth": 316,
+            "rawHeight": 105,
+            "width": 322,
+            "height": 111,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/12/120f7c6f-cdf5-46c3-bad3-f65b8c7f6221.png",
+            "x": 304,
+            "y": 363,
+            "rotated": true,
+            "rotatedWidth": 111,
+            "rotatedHeight": 322
+          },
+          {
+            "name": "level-bg",
+            "uuid": "28e187c0-7af4-4ca2-baaf-a0443edd890d",
+            "textureUuid": "4982a02b-1a9d-410a-be2e-b2102ba58e5d",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_11.png",
+            "trim": {
+              "x": 307,
+              "y": 688,
+              "width": 50,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 91,
+            "width": 56,
+            "height": 97,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/49/4982a02b-1a9d-410a-be2e-b2102ba58e5d.png",
+            "x": 304,
+            "y": 685,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "X2 拷贝 2",
+            "uuid": "888fe7aa-212c-4a2b-8a5c-37db222f222e",
+            "textureUuid": "86420cfb-9627-4896-9982-08f5e6974091",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_34.png",
+            "trim": {
+              "x": 273,
+              "y": 802,
+              "width": 40,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 25,
+            "width": 46,
+            "height": 31,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/86/86420cfb-9627-4896-9982-08f5e6974091.png",
+            "x": 270,
+            "y": 799,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "组 29",
+            "uuid": "d4c7cd86-9449-4550-b7a1-1acc3bb03188",
+            "textureUuid": "bc9487b0-26d5-4aab-9f92-f9361f475933",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_54.png",
+            "trim": {
+              "x": 273,
+              "y": 848,
+              "width": 31,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 31,
+            "rawHeight": 26,
+            "width": 37,
+            "height": 32,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/bc/bc9487b0-26d5-4aab-9f92-f9361f475933.png",
+            "x": 270,
+            "y": 845,
+            "rotated": true,
+            "rotatedWidth": 32,
+            "rotatedHeight": 37
+          },
+          {
+            "name": "组 33 拷贝 7",
+            "uuid": "52fd3def-a5ed-4c2c-8027-8e70acfb3140",
+            "textureUuid": "7ae1439c-f583-4d81-9f77-1f3246ff9f7b",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_22.png",
+            "trim": {
+              "x": 273,
+              "y": 885,
+              "width": 28,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 28
+            },
+            "rawWidth": 28,
+            "rawHeight": 28,
+            "width": 34,
+            "height": 34,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/7a/7ae1439c-f583-4d81-9f77-1f3246ff9f7b.png",
+            "x": 270,
+            "y": 882,
+            "rotatedWidth": 34,
+            "rotatedHeight": 34
+          },
+          {
+            "name": "progressBG",
+            "uuid": "09b7267e-4d16-4679-ad96-03c02d49ff3d",
+            "textureUuid": "935b6431-7d9c-4a96-b825-6054ccbca3b0",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_4.png",
+            "trim": {
+              "x": 307,
+              "y": 898,
+              "width": 376,
+              "height": 26,
+              "rotatedWidth": 376,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 376,
+            "rawHeight": 26,
+            "width": 382,
+            "height": 32,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/93/935b6431-7d9c-4a96-b825-6054ccbca3b0.png",
+            "x": 304,
+            "y": 895,
+            "rotatedWidth": 382,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "矩形 1",
+            "uuid": "4fbf8df3-b863-4c49-ada2-c190e3cf12c2",
+            "textureUuid": "09372406-8732-4687-a5f1-38a966c9eca0",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_19.png",
+            "trim": {
+              "x": 689,
+              "y": 898,
+              "width": 274,
+              "height": 83,
+              "rotatedWidth": 274,
+              "rotatedHeight": 83
+            },
+            "rawWidth": 274,
+            "rawHeight": 83,
+            "width": 280,
+            "height": 89,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/09/09372406-8732-4687-a5f1-38a966c9eca0.png",
+            "x": 686,
+            "y": 895,
+            "rotatedWidth": 280,
+            "rotatedHeight": 89
+          },
+          {
+            "name": "progress",
+            "uuid": "e78b5dde-820f-472c-b035-00f7e0f31012",
+            "textureUuid": "63b811a2-d3db-4a47-a346-a0981fba31c6",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_57.png",
+            "trim": {
+              "x": 273,
+              "y": 930,
+              "width": 372,
+              "height": 22,
+              "rotatedWidth": 372,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 376,
+            "rawHeight": 26,
+            "width": 378,
+            "height": 28,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/63/63b811a2-d3db-4a47-a346-a0981fba31c6.png",
+            "x": 270,
+            "y": 927,
+            "rotatedWidth": 378,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "圆角矩形 512",
+            "uuid": "1dd9358f-0489-494e-9cf5-84371bdd86af",
+            "textureUuid": "ed651ec6-d155-4ebe-a008-cf7cba0f62e8",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_10.png",
+            "trim": {
+              "x": 273,
+              "y": 958,
+              "width": 277,
+              "height": 45,
+              "rotatedWidth": 277,
+              "rotatedHeight": 45
+            },
+            "rawWidth": 277,
+            "rawHeight": 45,
+            "width": 283,
+            "height": 51,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ed/ed651ec6-d155-4ebe-a008-cf7cba0f62e8.png",
+            "x": 270,
+            "y": 955,
+            "rotatedWidth": 283,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "图鉴1",
+            "uuid": "d2980aa4-7562-4d24-8551-5d4085036d0b",
+            "textureUuid": "eeb60250-fb46-4388-a127-1af3055c4746",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_53.png",
+            "trim": {
+              "x": 556,
+              "y": 958,
+              "width": 76,
+              "height": 39,
+              "rotatedWidth": 76,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 76,
+            "rawHeight": 39,
+            "width": 82,
+            "height": 45,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ee/eeb60250-fb46-4388-a127-1af3055c4746.png",
+            "x": 553,
+            "y": 955,
+            "rotatedWidth": 82,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "maozi",
+            "uuid": "fe378fc9-ecd4-468c-8478-7f8c602aa514",
+            "textureUuid": "8e3af6af-70f9-48d3-b113-f4b539e98670",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_68.png",
+            "trim": {
+              "x": 638,
+              "y": 958,
+              "width": 51,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 100,
+            "rawHeight": 71,
+            "width": 57,
+            "height": 41,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/8e/8e3af6af-70f9-48d3-b113-f4b539e98670.png",
+            "x": 635,
+            "y": 955,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "查看好友排行",
+            "uuid": "0cf70568-8bf3-4d76-9eaa-4494d8a31bfc",
+            "textureUuid": "98e48571-6ade-4578-a255-5cadf0f66831",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_7.png",
+            "trim": {
+              "x": 679,
+              "y": 987,
+              "width": 161,
+              "height": 30,
+              "rotatedWidth": 161,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 161,
+            "rawHeight": 30,
+            "width": 167,
+            "height": 36,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/98/98e48571-6ade-4578-a255-5cadf0f66831.png",
+            "x": 676,
+            "y": 984,
+            "rotatedWidth": 167,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "圆角矩形 4 拷贝",
+            "uuid": "cf9c9465-34b6-4be3-a935-368066e9491e",
+            "textureUuid": "ad34effe-5b9e-470f-99e5-8c526b4644a4",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_52.png",
+            "trim": {
+              "x": 524,
+              "y": 3,
+              "width": 226,
+              "height": 352,
+              "rotatedWidth": 226,
+              "rotatedHeight": 352
+            },
+            "rawWidth": 226,
+            "rawHeight": 352,
+            "width": 232,
+            "height": 358,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ad/ad34effe-5b9e-470f-99e5-8c526b4644a4.png",
+            "x": 521,
+            "y": 0,
+            "rotatedWidth": 232,
+            "rotatedHeight": 358
+          },
+          {
+            "name": "huan",
+            "uuid": "40255fff-6fe6-4ab8-a1ca-abc211657430",
+            "textureUuid": "a7f345e9-ac13-47fa-b92e-bf787c61a1a3",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_16.png",
+            "trim": {
+              "x": 524,
+              "y": 361,
+              "width": 303,
+              "height": 303,
+              "rotatedWidth": 303,
+              "rotatedHeight": 303
+            },
+            "rawWidth": 305,
+            "rawHeight": 305,
+            "width": 309,
+            "height": 309,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/a7/a7f345e9-ac13-47fa-b92e-bf787c61a1a3.png",
+            "x": 521,
+            "y": 358,
+            "rotatedWidth": 309,
+            "rotatedHeight": 309
+          },
+          {
+            "name": "z",
+            "uuid": "8a8ec7d0-d6d3-449e-adb9-ac58425ff750",
+            "textureUuid": "452cf243-f340-4f02-aa06-c9c58db242d6",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_35.png",
+            "trim": {
+              "x": 774,
+              "y": 670,
+              "width": 160,
+              "height": 125,
+              "rotatedWidth": 160,
+              "rotatedHeight": 125
+            },
+            "rawWidth": 163,
+            "rawHeight": 127,
+            "width": 166,
+            "height": 131,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/45/452cf243-f340-4f02-aa06-c9c58db242d6.png",
+            "x": 771,
+            "y": 667,
+            "rotatedWidth": 166,
+            "rotatedHeight": 131
+          },
+          {
+            "name": "shipin (1)",
+            "uuid": "1c6d6256-e22a-47f3-9753-ea8a59ce2583",
+            "textureUuid": "a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_9.png",
+            "trim": {
+              "x": 524,
+              "y": 670,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 223,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/a0/a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d.png",
+            "x": 521,
+            "y": 667,
+            "rotatedWidth": 229,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "addStepAdv",
+            "uuid": "38488265-36f4-4d81-a69a-7b6ecf2dfb04",
+            "textureUuid": "e86ee5c7-0dd6-474a-b39a-0f943dda190e",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_13.png",
+            "trim": {
+              "x": 774,
+              "y": 801,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 223,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/e8/e86ee5c7-0dd6-474a-b39a-0f943dda190e.png",
+            "x": 771,
+            "y": 798,
+            "rotatedWidth": 229,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "组 11",
+            "uuid": "09f1f917-2fee-47e9-bdf6-069dc771ec10",
+            "textureUuid": "fddf121a-f575-4761-831e-490e61fe6f1d",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_5.png",
+            "trim": {
+              "x": 969,
+              "y": 883,
+              "width": 35,
+              "height": 40,
+              "rotatedWidth": 35,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 35,
+            "rawHeight": 40,
+            "width": 41,
+            "height": 46,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/fd/fddf121a-f575-4761-831e-490e61fe6f1d.png",
+            "x": 966,
+            "y": 880,
+            "rotatedWidth": 41,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "reset",
+            "uuid": "efdea896-3812-4d30-a73f-578d1d1a035e",
+            "textureUuid": "9c85ad72-25f4-4edd-b824-819b1cc33dab",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_60.png",
+            "trim": {
+              "x": 756,
+              "y": 3,
+              "width": 252,
+              "height": 252,
+              "rotatedWidth": 252,
+              "rotatedHeight": 252
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 258,
+            "height": 258,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/9c/9c85ad72-25f4-4edd-b824-819b1cc33dab.png",
+            "x": 753,
+            "y": 0,
+            "rotatedWidth": 258,
+            "rotatedHeight": 258
+          },
+          {
+            "name": "按钮",
+            "uuid": "07cb5ff6-4cfc-490d-bca2-160ce6f958d9",
+            "textureUuid": "6737f5f0-dcbb-4648-974b-f8158527de6c",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622221_image_3.png",
+            "trim": {
+              "x": 756,
+              "y": 261,
+              "width": 256,
+              "height": 86,
+              "rotatedWidth": 256,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 256,
+            "rawHeight": 86,
+            "width": 262,
+            "height": 92,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/67/6737f5f0-dcbb-4648-974b-f8158527de6c.png",
+            "x": 753,
+            "y": 258,
+            "rotatedWidth": 262,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "bg",
+            "uuid": "c6f13935-51e6-471e-831f-3e9689a493f7",
+            "textureUuid": "6a063df3-972d-46c2-9f16-1ebe56931770",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_49.png",
+            "trim": {
+              "x": 833,
+              "y": 353,
+              "width": 134,
+              "height": 307,
+              "rotatedWidth": 134,
+              "rotatedHeight": 307
+            },
+            "rawWidth": 134,
+            "rawHeight": 307,
+            "width": 140,
+            "height": 313,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/6a/6a063df3-972d-46c2-9f16-1ebe56931770.png",
+            "x": 830,
+            "y": 350,
+            "rotatedWidth": 140,
+            "rotatedHeight": 313
+          },
+          {
+            "name": "椭圆 1(1)",
+            "uuid": "c67caf16-381f-459d-a30b-81bed846e851",
+            "textureUuid": "dac96767-6f0c-4e57-9a8e-26cf2bb98936",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_48.png",
+            "trim": {
+              "x": 940,
+              "y": 666,
+              "width": 120,
+              "height": 71,
+              "rotatedWidth": 71,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 127,
+            "rawHeight": 76,
+            "width": 126,
+            "height": 77,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/da/dac96767-6f0c-4e57-9a8e-26cf2bb98936.png",
+            "x": 937,
+            "y": 663,
+            "rotated": true,
+            "rotatedWidth": 77,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "11",
+            "uuid": "7561eb3e-7728-4a86-85ad-077206b097d1",
+            "textureUuid": "46bf6ed6-b53f-4c53-8e34-f4287ed14b0c",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_31.png",
+            "trim": {
+              "x": 973,
+              "y": 353,
+              "width": 201,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 201
+            },
+            "rawWidth": 201,
+            "rawHeight": 44,
+            "width": 207,
+            "height": 50,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/46/46bf6ed6-b53f-4c53-8e34-f4287ed14b0c.png",
+            "x": 970,
+            "y": 350,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 207
+          }
+        ],
+        "width": 1020,
+        "height": 1020,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "3",
+            "uuid": "511ca3c6-6ead-4877-8d6c-5e83b3900e72",
+            "textureUuid": "f63c4e49-a94c-4cd8-aa65-702d7b8153e0",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_20.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 262,
+              "height": 118,
+              "rotatedWidth": 262,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 262,
+            "rawHeight": 118,
+            "width": 268,
+            "height": 124,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/f6/f63c4e49-a94c-4cd8-aa65-702d7b8153e0.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 268,
+            "rotatedHeight": 124
+          },
+          {
+            "name": "tiancai",
+            "uuid": "cb492436-20b4-4861-8deb-07e075838102",
+            "textureUuid": "a1cce985-552c-4113-8b50-8201966725bf",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_51.png",
+            "trim": {
+              "x": 271,
+              "y": 3,
+              "width": 261,
+              "height": 116,
+              "rotatedWidth": 261,
+              "rotatedHeight": 116
+            },
+            "rawWidth": 262,
+            "rawHeight": 117,
+            "width": 267,
+            "height": 122,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/a1/a1cce985-552c-4113-8b50-8201966725bf.png",
+            "x": 268,
+            "y": 0,
+            "rotatedWidth": 267,
+            "rotatedHeight": 122
+          },
+          {
+            "name": "组 3",
+            "uuid": "52d79ee1-2087-4b81-9200-020189158cb7",
+            "textureUuid": "5b38e742-9e66-4da6-af63-c57b366af822",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_21.png",
+            "trim": {
+              "x": 538,
+              "y": 3,
+              "width": 244,
+              "height": 108,
+              "rotatedWidth": 244,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 244,
+            "rawHeight": 108,
+            "width": 250,
+            "height": 114,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/5b/5b38e742-9e66-4da6-af63-c57b366af822.png",
+            "x": 535,
+            "y": 0,
+            "rotatedWidth": 250,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "微信图片_20230720135530(1)",
+            "uuid": "548be208-fc6b-4c42-b67e-53cd4dd03ea6",
+            "textureUuid": "777ac293-d223-4295-9e7e-4ad1c59292cd",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_24.png",
+            "trim": {
+              "x": 788,
+              "y": 3,
+              "width": 144,
+              "height": 144,
+              "rotatedWidth": 144,
+              "rotatedHeight": 144
+            },
+            "rawWidth": 144,
+            "rawHeight": 144,
+            "width": 150,
+            "height": 150,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/77/777ac293-d223-4295-9e7e-4ad1c59292cd.jpg",
+            "x": 785,
+            "y": 0,
+            "rotatedWidth": 150,
+            "rotatedHeight": 150
+          },
+          {
+            "name": "组 3 拷贝",
+            "uuid": "5ee173e5-cf3d-4282-b2a5-668617ecb8d9",
+            "textureUuid": "63e6f57a-de76-4073-a85b-508bb2028b8c",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_26.png",
+            "trim": {
+              "x": 938,
+              "y": 3,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/63/63e6f57a-de76-4073-a85b-508bb2028b8c.png",
+            "x": 935,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "组 27",
+            "uuid": "be879a55-c98f-4f64-b69b-7ab1cc9c8536",
+            "textureUuid": "dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_46.png",
+            "trim": {
+              "x": 538,
+              "y": 117,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 223,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/dc/dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad.png",
+            "x": 535,
+            "y": 114,
+            "rotatedWidth": 229,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "组 29",
+            "uuid": "c369c7ad-cdb0-4cb5-98f2-1c42419251af",
+            "textureUuid": "bf4a5331-4564-40ed-8787-555436e24823",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_47.png",
+            "trim": {
+              "x": 767,
+              "y": 153,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/bf/bf4a5331-4564-40ed-8787-555436e24823.png",
+            "x": 764,
+            "y": 150,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "组 7(1)",
+            "uuid": "db948d8a-dcd0-4188-a8ad-b49f90806848",
+            "textureUuid": "56d36e2a-bba8-4c38-9163-f7508a8e6bad",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_56.png",
+            "trim": {
+              "x": 849,
+              "y": 153,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/56/56d36e2a-bba8-4c38-9163-f7508a8e6bad.png",
+            "x": 846,
+            "y": 150,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "stepleft",
+            "uuid": "a7a08b18-ddbe-440f-862c-70626961c6c7",
+            "textureUuid": "e711a37d-4f5f-4d80-8d21-cf64964637e3",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_42.png",
+            "trim": {
+              "x": 931,
+              "y": 232,
+              "width": 159,
+              "height": 79,
+              "rotatedWidth": 79,
+              "rotatedHeight": 159
+            },
+            "rawWidth": 159,
+            "rawHeight": 79,
+            "width": 165,
+            "height": 85,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/e7/e711a37d-4f5f-4d80-8d21-cf64964637e3.png",
+            "x": 928,
+            "y": 229,
+            "rotated": true,
+            "rotatedWidth": 85,
+            "rotatedHeight": 165
+          },
+          {
+            "name": "图鉴",
+            "uuid": "0681e35d-19c2-43f9-9536-7606795e4de7",
+            "textureUuid": "1466360e-b55f-4445-a0de-4070362ca6d4",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622221_image_1.png",
+            "trim": {
+              "x": 271,
+              "y": 125,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/14/1466360e-b55f-4445-a0de-4070362ca6d4.png",
+            "x": 268,
+            "y": 122,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "组 4 拷贝 2",
+            "uuid": "657d750c-cd1c-4d4c-9a94-a1d2df11a6cf",
+            "textureUuid": "03ffd00a-834d-4398-be9d-67780a0a9188",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_27.png",
+            "trim": {
+              "x": 399,
+              "y": 125,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/03/03ffd00a-834d-4398-be9d-67780a0a9188.png",
+            "x": 396,
+            "y": 122,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "share",
+            "uuid": "7a44b744-30a1-4035-a0df-7ff73ac0e587",
+            "textureUuid": "8ce9770c-4871-4ece-93a7-0280b1571156",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_33.png",
+            "trim": {
+              "x": 527,
+              "y": 199,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/8c/8ce9770c-4871-4ece-93a7-0280b1571156.png",
+            "x": 524,
+            "y": 196,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "组 4 拷贝 3",
+            "uuid": "f519d00d-2c4a-4ec6-ad11-abe7a501409d",
+            "textureUuid": "406a2669-4bc5-4914-9f50-20883a5c79e9",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_63.png",
+            "trim": {
+              "x": 655,
+              "y": 199,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 90,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/40/406a2669-4bc5-4914-9f50-20883a5c79e9.png",
+            "x": 652,
+            "y": 196,
+            "rotatedWidth": 96,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "组 40",
+            "uuid": "03454f35-c355-4a8b-9161-014495b5597b",
+            "textureUuid": "a14001b1-4838-43a6-b82c-f96116919a0b",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622221_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 127,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/a1/a14001b1-4838-43a6-b82c-f96116919a0b.png",
+            "x": 0,
+            "y": 124,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "蓝",
+            "uuid": "0cb17bd3-4ddf-4731-bda8-c2feb3e4ac4d",
+            "textureUuid": "f5d526f5-85c6-4163-a580-d71e1f846958",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_6.png",
+            "trim": {
+              "x": 103,
+              "y": 127,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/f5/f5d526f5-85c6-4163-a580-d71e1f846958.png",
+            "x": 100,
+            "y": 124,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "gameover",
+            "uuid": "fdffba35-959b-4e03-8e3e-b9b973282106",
+            "textureUuid": "577e6412-1119-4436-a1e3-248aa6b77403",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_67.png",
+            "trim": {
+              "x": 203,
+              "y": 127,
+              "width": 158,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 158
+            },
+            "rawWidth": 158,
+            "rawHeight": 40,
+            "width": 164,
+            "height": 46,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/57/577e6412-1119-4436-a1e3-248aa6b77403.png",
+            "x": 200,
+            "y": 124,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 164
+          },
+          {
+            "name": "组 38",
+            "uuid": "12fd0ab8-33f6-44e3-9337-c035b9aa7525",
+            "textureUuid": "db9c060b-7563-4a45-be32-d9bfa048772c",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 227,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/db/db9c060b-7563-4a45-be32-d9bfa048772c.png",
+            "x": 0,
+            "y": 224,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell1",
+            "uuid": "33d0cfcf-c5a8-430f-8116-858c725da12c",
+            "textureUuid": "f5efab48-447a-4331-b259-6cce2f407e3d",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_12.png",
+            "trim": {
+              "x": 103,
+              "y": 227,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/f5/f5efab48-447a-4331-b259-6cce2f407e3d.png",
+            "x": 100,
+            "y": 224,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell2",
+            "uuid": "393ac1a8-7fc3-4127-b4fd-d138ec7d984b",
+            "textureUuid": "0064b193-9933-4717-a7d1-09632c7142d0",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_14.png",
+            "trim": {
+              "x": 249,
+              "y": 221,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/00/0064b193-9933-4717-a7d1-09632c7142d0.png",
+            "x": 246,
+            "y": 218,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹-拷贝-5",
+            "uuid": "3e5b7d3e-9995-4088-9237-73ea3e0cb941",
+            "textureUuid": "9f606596-0024-466f-b37a-97622e05f3dc",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_15.png",
+            "trim": {
+              "x": 349,
+              "y": 221,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/9f/9f606596-0024-466f-b37a-97622e05f3dc.png",
+            "x": 346,
+            "y": 218,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "btn-red",
+            "uuid": "953a7bdf-3b76-49d5-9831-c70e95163dd4",
+            "textureUuid": "d81ef909-1630-473f-8cb8-5b63db78579a",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_37.png",
+            "trim": {
+              "x": 449,
+              "y": 221,
+              "width": 71,
+              "height": 76,
+              "rotatedWidth": 71,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 71,
+            "rawHeight": 76,
+            "width": 77,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/d8/d81ef909-1630-473f-8cb8-5b63db78579a.png",
+            "x": 446,
+            "y": 218,
+            "rotatedWidth": 77,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "cell4",
+            "uuid": "45f214e9-3fa0-470e-9521-a13edfd2b7c0",
+            "textureUuid": "13906c67-d31e-4307-a565-ad51349d6c62",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_17.png",
+            "trim": {
+              "x": 526,
+              "y": 295,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/13/13906c67-d31e-4307-a565-ad51349d6c62.png",
+            "x": 523,
+            "y": 292,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "back",
+            "uuid": "fa4c1170-9b3a-49de-9f3c-a2accdbb6fbe",
+            "textureUuid": "719f200f-ffd6-4dfe-8da3-6cfe2bbfd968",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_65.png",
+            "trim": {
+              "x": 449,
+              "y": 303,
+              "width": 54,
+              "height": 54,
+              "rotatedWidth": 54,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 54,
+            "rawHeight": 54,
+            "width": 60,
+            "height": 60,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/71/719f200f-ffd6-4dfe-8da3-6cfe2bbfd968.png",
+            "x": 446,
+            "y": 300,
+            "rotatedWidth": 60,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "组 39",
+            "uuid": "56333ac3-59d7-4a9b-8ccb-d56d9d4fda7e",
+            "textureUuid": "840f939f-346c-44b4-b617-b89aefbc5872",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_25.png",
+            "trim": {
+              "x": 626,
+              "y": 327,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/84/840f939f-346c-44b4-b617-b89aefbc5872.png",
+            "x": 623,
+            "y": 324,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2黄",
+            "uuid": "6ff4a620-f727-4a6c-84a2-dfe7b324bdf6",
+            "textureUuid": "2392c450-bb60-43f3-857a-623bc5309b78",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_28.png",
+            "trim": {
+              "x": 726,
+              "y": 382,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/23/2392c450-bb60-43f3-857a-623bc5309b78.png",
+            "x": 723,
+            "y": 379,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹绿-拷贝",
+            "uuid": "72fd7f95-62f3-4fff-9bfb-df344003d059",
+            "textureUuid": "01c1aa35-31d2-4f99-abfd-026d6aca0297",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_30.png",
+            "trim": {
+              "x": 826,
+              "y": 382,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/01/01c1aa35-31d2-4f99-abfd-026d6aca0297.png",
+            "x": 823,
+            "y": 379,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹绿",
+            "uuid": "79f59b38-59da-450b-9bfd-2cfae65f529c",
+            "textureUuid": "d3568d6a-8d11-4e7a-9720-aececa08a1c1",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_32.png",
+            "trim": {
+              "x": 926,
+              "y": 397,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/d3/d3568d6a-8d11-4e7a-9720-aececa08a1c1.png",
+            "x": 923,
+            "y": 394,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 37",
+            "uuid": "92fdef0c-e573-4d6e-a41a-c473b43c510f",
+            "textureUuid": "753d253b-f782-462e-8d05-1429fc48bba7",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_36.png",
+            "trim": {
+              "x": 203,
+              "y": 321,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/75/753d253b-f782-462e-8d05-1429fc48bba7.png",
+            "x": 200,
+            "y": 318,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell3",
+            "uuid": "9f87bfd7-dff9-46d8-9bcb-2fd4dc2b10f5",
+            "textureUuid": "28972c30-b65b-4e12-bd48-4f7bda9be71a",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_39.png",
+            "trim": {
+              "x": 303,
+              "y": 321,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/28/28972c30-b65b-4e12-bd48-4f7bda9be71a.png",
+            "x": 300,
+            "y": 318,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 43",
+            "uuid": "a5491008-d2e1-4632-ab3a-66a3a4572d2c",
+            "textureUuid": "75d85408-a110-4654-8bfe-79338f2217af",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_41.png",
+            "trim": {
+              "x": 403,
+              "y": 363,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/75/75d85408-a110-4654-8bfe-79338f2217af.png",
+            "x": 400,
+            "y": 360,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2绿",
+            "uuid": "b221d77f-7545-47fe-bad0-1e540b5f82b6",
+            "textureUuid": "cfd70cd1-110e-4a91-88de-50f5acade1d6",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622224_image_44.png",
+            "trim": {
+              "x": 503,
+              "y": 395,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/cf/cfd70cd1-110e-4a91-88de-50f5acade1d6.png",
+            "x": 500,
+            "y": 392,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2蓝",
+            "uuid": "c76df38f-ac58-4abf-9c01-413b42e7751a",
+            "textureUuid": "02249a9d-7597-4628-a2be-d8758417b922",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_50.png",
+            "trim": {
+              "x": 603,
+              "y": 427,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/02/02249a9d-7597-4628-a2be-d8758417b922.png",
+            "x": 600,
+            "y": 424,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 41",
+            "uuid": "ec80c9fa-e346-4ba0-a300-95abe71c0528",
+            "textureUuid": "056f3033-b5fa-4a22-b57b-54fee92969c4",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_58.png",
+            "trim": {
+              "x": 703,
+              "y": 482,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/05/056f3033-b5fa-4a22-b57b-54fee92969c4.png",
+            "x": 700,
+            "y": 479,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 42",
+            "uuid": "ee5bf543-5b21-4e5c-bc8b-58f448cce4d1",
+            "textureUuid": "27da2501-2dc7-4917-a92c-8b28a3331283",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_59.png",
+            "trim": {
+              "x": 803,
+              "y": 482,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/27/27da2501-2dc7-4917-a92c-8b28a3331283.png",
+            "x": 800,
+            "y": 479,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2红",
+            "uuid": "f42026ae-4016-42e1-a9bc-d8b9f705edb1",
+            "textureUuid": "e9c5fc4a-8bd9-4cec-9d47-956eace4d347",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_61.png",
+            "trim": {
+              "x": 903,
+              "y": 497,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/e9/e9c5fc4a-8bd9-4cec-9d47-956eace4d347.png",
+            "x": 900,
+            "y": 494,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹-拷贝-4",
+            "uuid": "f751ff59-8e3c-404f-acb8-510e0b415b76",
+            "textureUuid": "ead00d74-812b-47eb-a068-de62e75813ec",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_64.png",
+            "trim": {
+              "x": 3,
+              "y": 327,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ea/ead00d74-812b-47eb-a068-de62e75813ec.png",
+            "x": 0,
+            "y": 324,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "x",
+            "uuid": "53d4b33b-1f44-4d1f-8cbc-cf4d006388eb",
+            "textureUuid": "a7a1efc0-b342-49ff-939a-330fcd29ca5b",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622222_image_23.png",
+            "trim": {
+              "x": 103,
+              "y": 327,
+              "width": 82,
+              "height": 99,
+              "rotatedWidth": 82,
+              "rotatedHeight": 99
+            },
+            "rawWidth": 86,
+            "rawHeight": 108,
+            "width": 88,
+            "height": 105,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/a7/a7a1efc0-b342-49ff-939a-330fcd29ca5b.png",
+            "x": 100,
+            "y": 324,
+            "rotatedWidth": 88,
+            "rotatedHeight": 105
+          },
+          {
+            "name": "close",
+            "uuid": "0706478d-6e33-442e-9056-108d59ca1378",
+            "textureUuid": "bc139303-cf73-4029-98d5-c7b0ca789875",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622221_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 427,
+              "width": 81,
+              "height": 84,
+              "rotatedWidth": 84,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 81,
+            "rawHeight": 84,
+            "width": 87,
+            "height": 90,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/bc/bc139303-cf73-4029-98d5-c7b0ca789875.png",
+            "x": 0,
+            "y": 424,
+            "rotated": true,
+            "rotatedWidth": 90,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "btn-y",
+            "uuid": "d69e60c9-8596-434a-a465-926cb4c7734a",
+            "textureUuid": "ea6e952d-5cc2-4264-a44a-56bc0cf010a9",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622225_image_55.png",
+            "trim": {
+              "x": 191,
+              "y": 421,
+              "width": 75,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 75,
+            "rawHeight": 76,
+            "width": 81,
+            "height": 82,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/ea/ea6e952d-5cc2-4264-a44a-56bc0cf010a9.png",
+            "x": 188,
+            "y": 418,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 81
+          }
+        ],
+        "width": 1023,
+        "height": 594,
+        "name": "AutoAtlas-2",
+        "imagePath": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\AutoAtlas.pac\\AutoAtlas-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\AutoAtlas.pac\\compressed\\AutoAtlas-2"
+        }
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "background",
+        "uuid": "70195b04-4a94-4453-b16f-8b5beeb54def",
+        "textureUuid": "f736cce7-ed67-4f19-9679-a74c5261d6a5",
+        "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_29.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 750,
+          "height": 1667,
+          "rotatedWidth": 750,
+          "rotatedHeight": 1667
+        },
+        "rawWidth": 750,
+        "rawHeight": 1667,
+        "width": 756,
+        "height": 1673,
+        "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/f7/f736cce7-ed67-4f19-9679-a74c5261d6a5.jpg"
+      },
+      {
+        "name": "微信图片_20230725003108",
+        "uuid": "9d640512-a674-4650-aca4-a59484099417",
+        "textureUuid": "dd653b45-dc6b-4fae-8909-48af39edd3cb",
+        "path": "D:\\WorkSpace\\Project\\cocos_proj\\pop_stars_master-master\\temp\\trimImages\\spritesheet_js_1692690622223_image_38.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1817,
+          "height": 1817,
+          "rotatedWidth": 1817,
+          "rotatedHeight": 1817
+        },
+        "rawWidth": 1817,
+        "rawHeight": 1817,
+        "width": 1823,
+        "height": 1823,
+        "originalPath": "D:/WorkSpace/Project/cocos_proj/pop_stars_master-master/library/imports/dd/dd653b45-dc6b-4fae-8909-48af39edd3cb.jpg"
+      }
+    ]
+  }
+}
